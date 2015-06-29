@@ -7,7 +7,7 @@
     "128": "icons/icon128.png"
   },
   "description": "Control your favorite web-based music player with your keyboard's media keys, based on the original work provided by borismus https://github.com/borismus/keysocket",
-  "homepage_url": "https://github.com/borismus/keysocket",
+  "homepage_url": "https://github.com/legionaryu/keysocket/tree/KeysocketPlus",
   "permissions": ["tabs"],
   "manifest_version": 2,
   "commands": {
